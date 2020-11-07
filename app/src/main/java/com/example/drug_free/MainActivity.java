@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements ConversationDeleg
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.dashbord);
 
         Smooch.init(getApplication(), new Settings("5fa69de9f0f418000cd90483"), new SmoochCallback() {
             @Override

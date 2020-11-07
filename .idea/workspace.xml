@@ -14,6 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b53f2461-157d-4f66-9741-4966d45c7b4f" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
@@ -86,6 +87,19 @@
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +132,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< Updated upstream
+=======
+    <option name="UPDATE_TYPE" value="MERGE" />
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectId" id="1jxgyGkDixifpPqXV6fnZvCcui4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -130,9 +148,13 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-07T13:50:20.265Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< Updated upstream
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+>>>>>>> Stashed changes
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
@@ -214,6 +236,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="484" y="19" key="#app" timestamp="1604764347422">
       <screen x="0" y="0" width="1536" height="864" />
@@ -223,29 +248,53 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1604752918301" />
+<<<<<<< Updated upstream
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604764081781">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604764081781" />
     <state width="1236" height="216" key="GridCell.Tab.0.bottom" timestamp="1604759819503">
+=======
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1604767195150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="216" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604759819503" />
-    <state width="1236" height="216" key="GridCell.Tab.0.center" timestamp="1604759819503">
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604767195150" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1604764300568">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="216" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604759819503" />
-    <state width="1236" height="216" key="GridCell.Tab.0.left" timestamp="1604759819503">
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604764300568" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1604764300567">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="216" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604759819503" />
-    <state width="1236" height="216" key="GridCell.Tab.0.right" timestamp="1604759819503">
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604764300567" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1604764300567">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604764300567" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1604764300568">
+>>>>>>> Stashed changes
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604764300568" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1604767267102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604767267102" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1604767246160">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604767246160" />
+    <state x="430" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604767556138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+<<<<<<< Updated upstream
     <state width="1236" height="216" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604759819503" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1604764497942">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604764497942" />
+=======
+    <state x="430" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1604767556138" />
+>>>>>>> Stashed changes
   </component>
 </project>

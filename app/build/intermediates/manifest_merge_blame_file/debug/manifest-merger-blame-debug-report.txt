@@ -6,156 +6,156 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml
+8-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml
+9-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:12:5-79
-11-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:12:22-76
+11-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:12:5-79
+11-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:12:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:13:5-67
-12-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:13:22-64
+12-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:13:5-67
+12-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:13:22-64
 13    <uses-permission android:name="android.permission.VIBRATE" />
-13-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:14:5-66
-13-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:14:22-63
+13-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:14:5-66
+13-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:14:22-63
 14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-14-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:15:5-81
-14-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:15:22-78
+14-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:15:5-81
+14-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:15:22-78
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:16:5-79
-15-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:16:22-76
+15-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:16:5-79
+15-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:16:22-76
 16
 17    <uses-feature
-17-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:18:5-20:36
+17-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:18:5-20:36
 18        android:name="android.hardware.camera"
-18-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:19:9-47
+18-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:19:9-47
 19        android:required="false" />
-19-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:20:9-33
+19-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:20:9-33
 20    <uses-feature
-20-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:21:5-23:36
+20-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:21:5-23:36
 21        android:name="android.hardware.location.gps"
-21-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:22:9-53
+21-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:22:9-53
 22        android:required="false" />
-22-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:23:9-33
+22-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:23:9-33
 23
 24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 25    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-25-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:24:5-68
-25-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:24:22-65
+25-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:24:5-68
+25-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:24:22-65
 26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-26-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:26:5-82
-26-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:26:22-79
+26-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:26:5-82
+26-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:26:22-79
 27
 28    <application
-28-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:5:5-21:19
+28-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:5:5-21:19
 29        android:name="com.example.drug_free.CustomUiApp"
-29-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:11:9-36
+29-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:11:9-36
 30        android:allowBackup="true"
-30-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:6:9-35
+30-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:6:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-31-->[androidx.core:core:1.3.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:18-86
+31-->[androidx.core:core:1.3.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
 33        android:icon="@mipmap/ic_launcher"
-33-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:7:9-43
+33-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:7:9-43
 34        android:label="@string/app_name"
-34-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:8:9-41
+34-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:8:9-41
 35        android:requestLegacyExternalStorage="true"
-35-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:26:9-52
+35-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:26:9-52
 36        android:roundIcon="@mipmap/ic_launcher_round"
-36-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:9:9-54
+36-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:9:9-54
 37        android:supportsRtl="true"
-37-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:10:9-35
+37-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:10:9-35
 38        android:testOnly="true"
 39        android:theme="@style/AppTheme" >
-39-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:12:9-40
+39-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:12:9-40
 40        <activity android:name="com.example.drug_free.MainActivity" >
-40-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:14:9-20:20
-40-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:14:19-47
+40-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:14:9-20:20
+40-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:14:19-47
 41            <intent-filter>
-41-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:15:13-19:29
+41-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:15:13-19:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:16:17-69
-42-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:16:25-66
+42-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:16:17-69
+42-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:16:25-66
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:18:17-77
-44-->C:\Users\kamal\yesdrug\app\src\main\AndroidManifest.xml:18:27-74
+44-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:18:17-77
+44-->C:\Users\Admin\AndroidStudioProjects\Drugfree3\app\src\main\AndroidManifest.xml:18:27-74
 45            </intent-filter>
 46        </activity>
 47        <activity
-47-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:28:9-31:63
+47-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:28:9-31:63
 48            android:name="io.smooch.ui.NotificationActivity"
-48-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:29:13-61
+48-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:29:13-61
 49            android:launchMode="singleTask"
-49-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:30:13-44
+49-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:30:13-44
 50            android:theme="@style/Theme.Smooch.NoActionBar" />
-50-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:31:13-60
+50-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:31:13-60
 51        <activity
-51-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:32:9-37:51
+51-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:32:9-37:51
 52            android:name="io.smooch.ui.ConversationActivity"
-52-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:33:13-61
+52-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:33:13-61
 53            android:configChanges="orientation|screenSize"
-53-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:34:13-59
+53-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:34:13-59
 54            android:label="@string/Smooch_activityConversation"
-54-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:35:13-64
+54-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:35:13-64
 55            android:launchMode="singleTask"
-55-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:36:13-44
+55-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:36:13-44
 56            android:theme="@style/Theme.Smooch" />
-56-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:37:13-48
+56-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:37:13-48
 57        <activity
-57-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:38:9-40:77
+57-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:38:9-40:77
 58            android:name="io.smooch.ui.widget.ImageActivity"
-58-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:39:13-61
+58-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:39:13-61
 59            android:theme="@style/Theme.AppCompat.NoActionBar.FullScreen" />
-59-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:40:13-74
+59-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:40:13-74
 60
 61        <receiver
-61-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:42:9-48:20
+61-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:42:9-48:20
 62            android:name="io.smooch.ui.notification.NotificationReceiver"
-62-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:43:13-74
+62-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:43:13-74
 63            android:exported="false" >
-63-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:44:13-37
+63-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:44:13-37
 64            <intent-filter>
-64-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:45:13-47:29
+64-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:45:13-47:29
 65                <action android:name="io.smooch.NOTIFICATION" />
-65-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:46:17-65
-65-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:46:25-62
+65-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:46:17-65
+65-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:46:25-62
 66            </intent-filter>
 67        </receiver>
 68
 69        <provider
-69-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:50:9-58:20
+69-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:50:9-58:20
 70            android:name="androidx.core.content.FileProvider"
-70-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:51:13-62
+70-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:51:13-62
 71            android:authorities="com.example.drug_free.SMOOCH_FILE_PROVIDER"
-71-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:52:13-72
+71-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:52:13-72
 72            android:exported="false"
-72-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:53:13-37
+72-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:53:13-37
 73            android:grantUriPermissions="true" >
-73-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:54:13-47
+73-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:54:13-47
 74            <meta-data
-74-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:55:13-57:54
+74-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:55:13-57:54
 75                android:name="android.support.FILE_PROVIDER_PATHS"
-75-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:56:17-67
+75-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:56:17-67
 76                android:resource="@xml/file_paths" />
-76-->[io.smooch:ui:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\0ef69e9dc50f9c73a252387db8fad933\jetified-ui-7.0.4\AndroidManifest.xml:57:17-51
+76-->[io.smooch:ui:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\92624374fcbea5e3a674eb3ad9e787aa\jetified-ui-7.0.4\AndroidManifest.xml:57:17-51
 77        </provider>
 78
 79        <service
-79-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:15:9-17:40
+79-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:15:9-17:40
 80            android:name="io.smooch.core.service.SmoochService"
-80-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:16:13-64
+80-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:16:13-64
 81            android:exported="false" />
-81-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:17:13-37
+81-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:17:13-37
 82        <service android:name="io.smooch.core.FcmService" >
-82-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:18:9-22:19
-82-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:18:18-58
+82-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:18:9-22:19
+82-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:18:18-58
 83            <intent-filter>
-83-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:19:13-21:29
+83-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:19:13-21:29
 84                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-84-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:20:17-78
-84-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:20:25-75
+84-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:20:17-78
+84-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:20:25-75
 85            </intent-filter>
 86        </service>
 87        <!--
@@ -163,74 +163,74 @@
 89             but set to not exported to explicitly avoid allowing another app to call it.
 90        -->
 91        <service
-91-->[com.google.firebase:firebase-messaging:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55b1aceb4b3666566085e874044de5b1\jetified-firebase-messaging-18.0.0\AndroidManifest.xml:28:9-34:19
+91-->[com.google.firebase:firebase-messaging:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\66b859eb1e453dc716450df85f1f3c79\jetified-firebase-messaging-18.0.0\AndroidManifest.xml:28:9-34:19
 92            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-92-->[com.google.firebase:firebase-messaging:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55b1aceb4b3666566085e874044de5b1\jetified-firebase-messaging-18.0.0\AndroidManifest.xml:29:13-82
+92-->[com.google.firebase:firebase-messaging:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\66b859eb1e453dc716450df85f1f3c79\jetified-firebase-messaging-18.0.0\AndroidManifest.xml:29:13-82
 93            android:exported="false" >
-93-->[com.google.firebase:firebase-messaging:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55b1aceb4b3666566085e874044de5b1\jetified-firebase-messaging-18.0.0\AndroidManifest.xml:30:13-37
+93-->[com.google.firebase:firebase-messaging:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\66b859eb1e453dc716450df85f1f3c79\jetified-firebase-messaging-18.0.0\AndroidManifest.xml:30:13-37
 94            <intent-filter android:priority="-500" >
-94-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:19:13-21:29
+94-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:19:13-21:29
 95                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-95-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:20:17-78
-95-->[io.smooch:core:7.0.4] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\aeff6eacf2c72ecbc7df8b3644f14bfe\jetified-core-7.0.4\AndroidManifest.xml:20:25-75
+95-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:20:17-78
+95-->[io.smooch:core:7.0.4] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\6ba45277d11f7e13d87bc0fb60698589\jetified-core-7.0.4\AndroidManifest.xml:20:25-75
 96            </intent-filter>
 97        </service>
 98        <service
-98-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:29:9-35:19
+98-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:29:9-35:19
 99            android:name="com.google.firebase.components.ComponentDiscoveryService"
-99-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:30:13-84
+99-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:30:13-84
 100            android:exported="false" >
-100-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:31:13-37
+100-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:31:13-37
 101            <meta-data
-101-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:32:13-34:85
+101-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:32:13-34:85
 102                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-102-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:33:17-96
+102-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:33:17-96
 103                android:value="com.google.firebase.components.ComponentRegistrar" />
-103-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:34:17-82
+103-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:34:17-82
 104        </service>
 105
 106        <receiver
-106-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:37:9-44:20
+106-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:37:9-44:20
 107            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-107-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:38:13-78
+107-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:38:13-78
 108            android:exported="true"
-108-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:39:13-36
+108-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:39:13-36
 109            android:permission="com.google.android.c2dm.permission.SEND" >
-109-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:40:13-73
+109-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:40:13-73
 110            <intent-filter>
-110-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:41:13-43:29
+110-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:41:13-43:29
 111                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-111-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:42:17-81
-111-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\6dd4855a00c2ccdb61c8cb51826e4332\jetified-firebase-iid-18.0.0\AndroidManifest.xml:42:25-78
+111-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:42:17-81
+111-->[com.google.firebase:firebase-iid:18.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3463f2b6ef982932dab7681c39d4c520\jetified-firebase-iid-18.0.0\AndroidManifest.xml:42:25-78
 112            </intent-filter>
 113        </receiver>
 114
 115        <provider
-115-->[com.google.firebase:firebase-common:17.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55a8a1d081f9716b6a4f7e300b204a48\jetified-firebase-common-17.0.0\AndroidManifest.xml:12:9-16:39
+115-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c2cf397d2623dd935495b4854eb7f0d1\jetified-firebase-common-17.0.0\AndroidManifest.xml:12:9-16:39
 116            android:name="com.google.firebase.provider.FirebaseInitProvider"
-116-->[com.google.firebase:firebase-common:17.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55a8a1d081f9716b6a4f7e300b204a48\jetified-firebase-common-17.0.0\AndroidManifest.xml:13:13-77
+116-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c2cf397d2623dd935495b4854eb7f0d1\jetified-firebase-common-17.0.0\AndroidManifest.xml:13:13-77
 117            android:authorities="com.example.drug_free.firebaseinitprovider"
-117-->[com.google.firebase:firebase-common:17.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55a8a1d081f9716b6a4f7e300b204a48\jetified-firebase-common-17.0.0\AndroidManifest.xml:14:13-72
+117-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c2cf397d2623dd935495b4854eb7f0d1\jetified-firebase-common-17.0.0\AndroidManifest.xml:14:13-72
 118            android:exported="false"
-118-->[com.google.firebase:firebase-common:17.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55a8a1d081f9716b6a4f7e300b204a48\jetified-firebase-common-17.0.0\AndroidManifest.xml:15:13-37
+118-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c2cf397d2623dd935495b4854eb7f0d1\jetified-firebase-common-17.0.0\AndroidManifest.xml:15:13-37
 119            android:initOrder="100" />
-119-->[com.google.firebase:firebase-common:17.0.0] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\55a8a1d081f9716b6a4f7e300b204a48\jetified-firebase-common-17.0.0\AndroidManifest.xml:16:13-36
+119-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\c2cf397d2623dd935495b4854eb7f0d1\jetified-firebase-common-17.0.0\AndroidManifest.xml:16:13-36
 120
 121        <activity
-121-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\77b0520c99797ad1eca79a62fe1e5053\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+121-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b01fffb54a5582fd927937e892eb1c16\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
 122            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-122-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\77b0520c99797ad1eca79a62fe1e5053\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+122-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b01fffb54a5582fd927937e892eb1c16\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
 123            android:exported="false"
-123-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\77b0520c99797ad1eca79a62fe1e5053\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+123-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b01fffb54a5582fd927937e892eb1c16\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
 124            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-124-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\77b0520c99797ad1eca79a62fe1e5053\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+124-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b01fffb54a5582fd927937e892eb1c16\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
 125
 126        <meta-data
-126-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\41842bdc2d1d534a95e886a7a84ba72e\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+126-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7f862fe75069572d6cb4858677dee606\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
 127            android:name="com.google.android.gms.version"
-127-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\41842bdc2d1d534a95e886a7a84ba72e\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+127-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7f862fe75069572d6cb4858677dee606\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
 128            android:value="@integer/google_play_services_version" />
-128-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\kamal\.gradle\caches\transforms-2\files-2.1\41842bdc2d1d534a95e886a7a84ba72e\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+128-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7f862fe75069572d6cb4858677dee606\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
 129    </application>
 130
 131</manifest>

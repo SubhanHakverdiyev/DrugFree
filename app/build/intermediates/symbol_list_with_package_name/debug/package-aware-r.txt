@@ -642,6 +642,7 @@ color material_grey_900
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
+color pink
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -939,6 +940,11 @@ drawable background_transparent
 drawable background_transparent_border_top
 drawable background_webview_toolbar
 drawable background_white
+drawable bg_blue
+drawable bg_green
+drawable bg_menu
+drawable bg_purple
+drawable bg_yellow
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -972,11 +978,18 @@ drawable diners_club
 drawable discover
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_baseline_ballot_24
+drawable ic_baseline_bar_chart_24
+drawable ic_baseline_chat_24
+drawable ic_baseline_find_replace_24
+drawable ic_baseline_perm_media_24
+drawable ic_baseline_timer_24
 drawable ic_clear_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable location
 drawable master_card
+drawable navy
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -989,6 +1002,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable red
 drawable smooch_bg_darkener
 drawable smooch_bg_list
 drawable smooch_bg_message
@@ -1009,6 +1023,7 @@ drawable smooch_message_separator_user
 drawable smooch_primary_color
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable type1
 drawable unknown_cc
 drawable visa
 id ALT
@@ -1390,6 +1405,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout custom_dialog
+layout dashbord
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
