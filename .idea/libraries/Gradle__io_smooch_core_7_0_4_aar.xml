@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.smooch:core:7.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca7f55a215fc0f3e461b373432e0c982/jetified-core-7.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca7f55a215fc0f3e461b373432e0c982/jetified-core-7.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca7f55a215fc0f3e461b373432e0c982/jetified-core-7.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
