@@ -1,31 +1,55 @@
 [
     {
-        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trainspoting.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\drawable\\trainspoting.png"
     },
     {
         "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\layout_stories.xml.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\layout\\stories.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tarnation.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\drawable\\tarnation.png"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable_portrait_of_an_addict_as_a_young_man.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\drawable\\portrait_of_an_addict_as_a_young_man.png"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_to_murder_your_life.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\drawable\\how_to_murder_your_life.png"
     },
     {
         "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -36,12 +60,20 @@
         "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable_requiem_for_a_dream.png.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\drawable\\requiem_for_a_dream.png"
+    },
+    {
         "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\kamal\\yesdrug\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\layout\\my_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_media.xml.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\layout\\activity_media.xml"
     },
     {
         "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -58,5 +90,9 @@
     {
         "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamal\\yesdrug\\app\\build\\intermediates\\res\\merged\\debug\\drawable_storytxt.xml.flat",
+        "source": "C:\\Users\\kamal\\yesdrug\\app\\src\\main\\res\\drawable\\storytxt.xml"
     }
 ]

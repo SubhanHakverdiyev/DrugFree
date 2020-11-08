@@ -35,14 +35,19 @@
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.drug_free.Media" >
+            android:parentActivityName=".MainActivity"
+        </activity>
         <activity android:name="com.example.drug_free.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.example.drug_free.Story" >
+            android:parentActivityName=".MainActivity">
         </activity>
         <activity
             android:name="io.smooch.ui.NotificationActivity"
