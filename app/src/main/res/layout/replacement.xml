@@ -34,7 +34,7 @@
         android:id="@+id/description"
         android:text="Description"
         android:textColor="#000"
-        android:textSize="18sp"
+        android:textSize="14sp"
         android:layout_toRightOf="@id/iv_image"
         android:layout_toEndOf="@id/iv_image"
         android:layout_marginLeft="10dp"

@@ -29,7 +29,7 @@ import io.smooch.core.Smooch;
 import io.smooch.core.SmoochCallback;
 import io.smooch.core.SmoochConnectionStatus;
 
-public class MainActivity extends AppCompatActivity implements ConversationDelegate {
+public class MainActivity extends AppCompatActivity {
     public String conversationText = "";
 
 
@@ -38,129 +38,50 @@ public class MainActivity extends AppCompatActivity implements ConversationDeleg
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dashbord);
-        LinearLayout l= (LinearLayout)findViewById(R.id.replace);
-        l.setOnClickListener(new View.OnClickListener() {
+
+        LinearLayout stories = (LinearLayout) findViewById(R.id.read);
+        stories.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i= new Intent(getApplicationContext(),recyclermain.class);
+                Intent i = new Intent(getApplicationContext(), Story.class);
                 startActivity(i);
             }
         });
-        Smooch.init(getApplication(), new Settings("5fa69de9f0f418000cd90483"), new SmoochCallback() {
-            @Override
-            public void run(SmoochCallback.Response response) {
-                Smooch.setConversationDelegate(MainActivity.this);
 
+
+        LinearLayout media = (LinearLayout) findViewById(R.id.media);
+        media.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), Media.class);
+                startActivity(i);
             }
         });
-    }
-
-    public void renderConversationHistory() {
-        TextView textView = findViewById(R.id.textView);
-        textView.setText(conversationText);
-    }
 
 
-    public void sendMessage(View view) {
-        EditText editText = findViewById(R.id.editText);
-        String text = editText.getText().toString();
-        Log.d("MainActivity", "sendMessage: " + text);
-
-        Smooch.getConversation().sendMessage(new Message(text));
-        editText.setText("", TextView.BufferType.EDITABLE);
-        conversationText += text + "\n";
-        renderConversationHistory();
-    }
-
-    public void getMessages() {
-        List<Message> messages;
-        for (Message message : messages = Smooch.getConversation().getMessages()) {
-            String text = !message.isFromCurrentUser() ? message.getName() + " says " + message.getText() : message.getText();
-            conversationText += text + "\n";
-        }
-    }
-
-    @Override
-    public void onMessagesReceived(@NonNull Conversation conversation, @NonNull List<Message> list) {
-        getMessages();
-        renderConversationHistory();
-    }
-
-    @Override
-    public void onMessagesReset(@NonNull Conversation conversation, @NonNull List<Message> list) {
-
-    }
-
-    @Override
-    public void onUnreadCountChanged(@NonNull Conversation conversation, int i) {
-
-    }
-
-    @Override
-    public void onMessageSent(@NonNull Message message, @NonNull MessageUploadStatus messageUploadStatus) {
-
-    }
-
-    @Override
-    public void onConversationEventReceived(@NonNull ConversationEvent conversationEvent) {
-
-    }
-
-    @Override
-    public void onInitializationStatusChanged(@NonNull InitializationStatus initializationStatus) {
-
-            getMessages();
-            renderConversationHistory();
-        }
+        LinearLayout consult = (LinearLayout) findViewById(R.id.consult);
+        consult.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent cons= new Intent(getApplicationContext(),consultservice.class);
+                startActivity(cons);
+            }
+        });
 
 
-    @Override
-    public void onLoginComplete(@NonNull LoginResult loginResult) {
+        LinearLayout replacement = (LinearLayout) findViewById(R.id.replace);
+        replacement.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), recyclermain.class);
+                startActivity(i);
+            }
+        });
 
-    }
 
-    @Override
-    public void onLogoutComplete(@NonNull LogoutResult logoutResult) {
 
-    }
 
-    @Override
-    public void onPaymentProcessed(@NonNull MessageAction messageAction, @NonNull PaymentStatus paymentStatus) {
 
-    }
-
-    @Override
-    public boolean shouldTriggerAction(@NonNull MessageAction messageAction) {
-        return true;
-    }
-
-    @Override
-    public void onCardSummaryLoaded(@NonNull CardSummary cardSummary) {
-
-    }
-
-    @Override
-    public void onSmoochConnectionStatusChanged(@NonNull SmoochConnectionStatus smoochConnectionStatus) {
-
-    }
-
-    @Override
-    public void onSmoochShown() {
-
-    }
-
-    @Override
-    public void onSmoochHidden() {
-
-    }
-
-    @Override
-    public void onConversationsListUpdated(@NonNull List<Conversation> list) {
-
-    }
-
-    @Override
-    public void onPointerCaptureChanged(boolean hasCapture) {
 
     }
 }

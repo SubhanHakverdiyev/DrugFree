@@ -31,6 +31,8 @@ array Smooch_settings_showMenuOptions
 array com_google_android_gms_fonts_certs
 array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
+array description
+array media
 array preloaded_fonts
 attr actionBarDivider
 attr actionBarItemBackground
@@ -860,6 +862,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen pading
 dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
@@ -969,6 +972,7 @@ drawable bg_green
 drawable bg_menu
 drawable bg_purple
 drawable bg_yellow
+drawable brain
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1000,20 +1004,29 @@ drawable common_google_signin_btn_text_light_normal_background
 drawable credit_background
 drawable diners_club
 drawable discover
+drawable drugfree
+drawable getapp
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable h
+drawable heart
+drawable how_to_murder_your_life
 drawable ic_baseline_ballot_24
 drawable ic_baseline_bar_chart_24
 drawable ic_baseline_chat_24
 drawable ic_baseline_find_replace_24
+drawable ic_baseline_info_24
+drawable ic_baseline_library_music_24
 drawable ic_baseline_perm_media_24
+drawable ic_baseline_sports_tennis_24
 drawable ic_baseline_timer_24
 drawable ic_clear_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable location
 drawable master_card
+drawable meditation_concept_illustration_23_2148508591
+drawable nature
 drawable navy
 drawable notification_action_background
 drawable notification_bg
@@ -1027,7 +1040,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable portrait_of_an_addict_as_a_young_man
 drawable red
+drawable requiem_for_a_dream
 drawable small
 drawable smooch_bg_darkener
 drawable smooch_bg_list
@@ -1047,8 +1062,11 @@ drawable smooch_img_avatar
 drawable smooch_message_separator_remote
 drawable smooch_message_separator_user
 drawable smooch_primary_color
+drawable storytxt
+drawable tarnation
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable trainspoting
 drawable type1
 drawable unknown_cc
 drawable visa
@@ -1058,6 +1076,7 @@ id ALT
 id CTRL
 id FUNCTION
 id META
+id MyImageView
 id NO_DEBUG
 id SHIFT
 id SHOW_ALL
@@ -1173,6 +1192,7 @@ id clip_horizontal
 id clip_vertical
 id closeButton
 id collapseActionView
+id consult
 id content
 id contentContainer
 id contentPanel
@@ -1192,6 +1212,7 @@ id default_activity_button
 id deltaRelative
 id dependency_ordering
 id description
+id description_txt
 id dialog_button
 id dimensions
 id direct
@@ -1228,6 +1249,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id health
 id home
 id homeAsUp
 id honorRequest
@@ -1257,7 +1279,9 @@ id linear
 id listMode
 id list_item
 id loadingSpinner
+id media
 id media_actions
+id media_txt
 id message
 id middle
 id motion_base
@@ -1284,7 +1308,9 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id read
 id rectangles
+id recyclerView
 id replace
 id reverseSawtooth
 id right
@@ -1349,6 +1375,9 @@ id staticPostLayout
 id status
 id status_bar_latest_event_content
 id stop
+id stories
+id stories_subheading
+id story
 id submenuarrow
 id submit_area
 id tabMode
@@ -1368,6 +1397,7 @@ id textView
 id textView2
 id text_helper
 id time
+id timer
 id title
 id titleDividerNoCustom
 id title_template
@@ -1438,8 +1468,10 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_media
 layout custom_dialog
 layout dashbord
+layout my_row
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1471,6 +1503,7 @@ layout smooch_fragment_webview
 layout smooch_list_message_header
 layout smooch_list_message_item
 layout smooch_list_message_typing_activity
+layout stories
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -1589,8 +1622,11 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string fcm_fallback_notification_channel_label
+string paragraph
 string search_menu_title
 string status_bar_notification_info_overflow
+string stories_string
+string subheading
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

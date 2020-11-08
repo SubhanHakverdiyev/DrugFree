@@ -37,6 +37,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.drug_free.consultservice" />
         <activity android:name="com.example.drug_free.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -44,8 +45,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.drug_free.recyclermain" >
-        </activity>
+        <activity android:name="com.example.drug_free.recyclermain" />
+        <activity android:name="com.example.drug_free.Media" />
+        <activity android:name="com.example.drug_free.Story" />
 
         <meta-data
             android:name="preloaded_fonts"
