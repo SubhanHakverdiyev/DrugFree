@@ -1,9 +1,11 @@
 package com.example.drug_free;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -36,7 +38,14 @@ public class MainActivity extends AppCompatActivity implements ConversationDeleg
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dashbord);
-
+        LinearLayout l= (LinearLayout)findViewById(R.id.replace);
+        l.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i= new Intent(getApplicationContext(),recyclermain.class);
+                startActivity(i);
+            }
+        });
         Smooch.init(getApplication(), new Settings("5fa69de9f0f418000cd90483"), new SmoochCallback() {
             @Override
             public void run(SmoochCallback.Response response) {

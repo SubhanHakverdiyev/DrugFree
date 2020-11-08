@@ -1,15 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: io.smooch:ui:7.0.4@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4fa53690ac29660f944a7aa9817d0383/jetified-ui-7.0.4/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4fa53690ac29660f944a7aa9817d0383/jetified-ui-7.0.4/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4fa53690ac29660f944a7aa9817d0383/jetified-ui-7.0.4/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0ef69e9dc50f9c73a252387db8fad933/jetified-ui-7.0.4/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0ef69e9dc50f9c73a252387db8fad933/jetified-ui-7.0.4/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0ef69e9dc50f9c73a252387db8fad933/jetified-ui-7.0.4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92624374fcbea5e3a674eb3ad9e787aa/jetified-ui-7.0.4/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92624374fcbea5e3a674eb3ad9e787aa/jetified-ui-7.0.4/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92624374fcbea5e3a674eb3ad9e787aa/jetified-ui-7.0.4/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92624374fcbea5e3a674eb3ad9e787aa/jetified-ui-7.0.4/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

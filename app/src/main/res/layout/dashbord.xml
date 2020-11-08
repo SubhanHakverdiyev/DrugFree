@@ -47,6 +47,7 @@
                 android:layout_height="wrap_content">
                 <LinearLayout
                     android:orientation="vertical"
+                    android:clickable="true"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
                     android:background="@drawable/bg_green"
@@ -155,12 +156,16 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content">
                 <LinearLayout
+                    android:id="@+id/replace"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:clickable="true"
                     android:orientation="vertical"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
                     android:background="@drawable/bg_purple"
                     android:layout_width="match_parent"
-                    android:layout_height="120dp">
+                    android:layout_height="120dp"
+                    android:focusable="true">
 
                     <ImageView
                         android:layout_width="38dp"
